@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Image of Yaktocat](https://melongames.github.io/images/yaktocat.png)
+![Image of Yaktocat](https://melongames.github.io/japurbspic-pmsbasky.png)
 
 
 You can use the [editor on GitHub](https://github.com/MelonGames/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
