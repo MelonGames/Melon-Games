@@ -17,10 +17,10 @@
 ![ArchVisPic](reallvldesignhours3.png)
 ![ArchvisPic](reallvldesignhours8.png)
 ![ArchvisPic](reallvldesignhours11.png)
-"Architectual experiments" Playin around with colors and shapes
+"Architectual experiments" Playin around with colors and shapes, lights and shadows
 
 ![TerrPic](Terr1.png)
-![TerrPic](Terr2.png)
+![TerrPic](Terr3.png)
 "Generating Landscapes" Randomly generated waste planet landscapes
 
 You can use the [editor on GitHub](https://github.com/MelonGames/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
