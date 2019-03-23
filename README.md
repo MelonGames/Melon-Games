@@ -24,7 +24,6 @@
 ![ArchVisPic](reallvldesignhours3.png)
 ![ArchvisPic](reallvldesignhours8.png)
 ![ArchvisPic](reallvldesignhours11.png)
-![ArchvisPic](reallvldesignhours12.png)
 "Architectual experiments" Playin around with colors and shapes, lights and shadows
 
 
