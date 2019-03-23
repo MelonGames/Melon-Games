@@ -30,8 +30,6 @@
 
 All shown content was created by Melongames / Felix Haffke 2017-19
 
-[Facebook](https://www.facebook.com/Melon-Games-320701868112892/?ref=bookmarks)
-
-[GameJolt](https://gamejolt.com/@MelonMan)
-
+[Facebook](https://www.facebook.com/Melon-Games-320701868112892/?ref=bookmarks) //
+[GameJolt](https://gamejolt.com/@MelonMan) //
 melonarts@gmx.de
