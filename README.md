@@ -2,7 +2,7 @@
 
 ![TestImage](japurbspic-pmsbasky.png)
 
-http://github.com - automatic!
+https://gamejolt.com/games/MelonMan/238765
 
 You can use the [editor on GitHub](https://github.com/MelonGames/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
