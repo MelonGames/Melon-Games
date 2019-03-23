@@ -2,7 +2,8 @@
 
 ![TestImage](japurbspic-pmsbasky.png)
 
-[GitHub Flavored Markdown](https://gamejolt.com/games/MelonMan/238765)
+Not really a game but more of an animated picture
+[JapUrb](https://gamejolt.com/games/MelonMan/238765)
 
 You can use the [editor on GitHub](https://github.com/MelonGames/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
