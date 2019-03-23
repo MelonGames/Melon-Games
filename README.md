@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 ![Image of Yaktocat](https://melongames.github.io/japurbspic-pmsbasky.png)
 
