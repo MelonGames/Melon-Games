@@ -1,15 +1,15 @@
 ## Games
 
 ![JapUrbImage](japurbspic-pmsbasky.png)
-**JapUrb** Not really a game but more of an animated picture
+"JapUrb" Not really a game but more of an animated picture
 [Play](https://gamejolt.com/games/MelonMan/238765)
 
 ![ZoneImage](zonepicFirewatch.png)
-**TheZone** A minimalistic stylised survival experience
+"TheZone" A minimalistic stylised survival experience
 [Play](https://gamejolt.com/games/TheZone/35767)
 
 ![ScapelandsImage](Antenna.png)
-**ScapeLands** Take a walk in randomly generated, amstract worlds
+"ScapeLands" Take a walk in randomly generated, amstract worlds
 [Play](https://gamejolt.com/games/ScapeLands/266635)
 
 ## 3D work and unfinished games
