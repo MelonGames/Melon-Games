@@ -13,6 +13,16 @@
 [Play](https://gamejolt.com/games/ScapeLands/266635)
 
 ## 3D work and unfinished games
+
+![ArchVisPic](reallvldesignhours3.png)
+![ArchvisPic](reallvldesignhours8.png)
+![ArchvisPic](reallvldesignhours11.png)
+"Architectual experiments" Playin around with colors and shapes
+
+![TerrPic](Terr1.png)
+![TerrPic](Terr2.png)
+"Generating Landscapes" Randomly generated waste planet landscapes
+
 You can use the [editor on GitHub](https://github.com/MelonGames/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
