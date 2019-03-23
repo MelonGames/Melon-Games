@@ -9,11 +9,11 @@
 [Play](https://gamejolt.com/games/TheZone/35767)
 
 ![ScapelandsImage](Antenna.png)
-"ScapeLands" Take a walk in randomly generated, amstract worlds
+"ScapeLands" Take a walk in randomly generated, abstract worlds
 [Play](https://gamejolt.com/games/ScapeLands/266635)
 
 
-## 3D work and unfinished games
+## 3D Work
 
 ![TerrPic](Terr1.png)
 ![TerrPic](Terr3.png)
@@ -29,3 +29,9 @@
 
 
 All shown content was created by Melongames / Felix Haffke 2017-19
+
+[Facebook](https://www.facebook.com/Melon-Games-320701868112892/?ref=bookmarks)
+
+[GameJolt](https://gamejolt.com/@MelonMan)
+
+melonarts@gmx.de
